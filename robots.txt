@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+Sitemap: https://aistockmap-d6ezonbk.manus.space/sitemap.xml
+
+# Crawl delay (optional, helps reduce server load)
+Crawl-delay: 1
